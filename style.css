@@ -1,0 +1,13 @@
+.title {
+    font-size: 30px;
+    color: aquamarine;
+
+}
+
+.description {
+    text-align: center;
+    /*font-family: ;*/
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+    border-style: ridge;
+}
