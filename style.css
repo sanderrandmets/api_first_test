@@ -1,13 +1,17 @@
-.title {
-    font-size: 30px;
-    color: aquamarine;
+#movies {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
 
+.movie {
+    margin: 24px;
+}
+
+.title {
+    font-weight: bold;
 }
 
 .description {
-    text-align: center;
-    /*font-family: ;*/
-    margin-top: 0.5rem;
-    margin-bottom: 2rem;
-    border-style: ridge;
+   font-style: italic;
 }
+
